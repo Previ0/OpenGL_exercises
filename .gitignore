@@ -1,0 +1,16 @@
+# Ignore project settings
+.vs/*
+
+# Ignore dependencies
+Dependencies/
+
+# Ignore project solution
+OpenGL_exercises.sln
+
+# Ignore project procets set up
+OpenGL_exercises/OpenGL_exercises.vcxproj
+OpenGL_exercises/OpenGL_exercises.vcxproj.filters
+OpenGL_exercises/OpenGL_exercises.vcxproj.user
+
+# Ignore compiled program
+bin
